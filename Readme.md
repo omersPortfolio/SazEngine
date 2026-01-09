@@ -1,4 +1,4 @@
-# Saz Game Engine
+# Saz Engine
 
 - Custom C++ game engine built from scratch to explore low-level engine architecture.
 - Designed and implemented a lightweight Entity Component System for flexible game object behavior.
